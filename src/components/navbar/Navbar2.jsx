@@ -37,8 +37,8 @@ const Navbar2 = () => {
         <nav className="container  flex h-[70px] items-center justify-between py-2 ">
           <div className="text-2xl text-white md:text-3xl ">
             <a href="/#home" className="">
-              COZ
-              <span className="inline-block font-bold text-primary">WEB</span>
+              Demo
+              <span className="inline-block font-bold text-primary">Page</span>
             </a>
           </div>
           {/* Desktop Menu */}
@@ -141,7 +141,7 @@ const Navbar2 = () => {
                     <p className="text-sm">Call us on</p>
                     <p className="text-lg">
                       {" "}
-                      <a href="tel:+91123456789">+91 123456789</a>
+                      <a href="tel:+918248566678">+91 8248566678</a>
                     </p>
                   </div>
                 </li>
