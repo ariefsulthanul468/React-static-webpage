@@ -26,7 +26,7 @@ const Blogs = () => {
             </div>
             <div className="flex justify-between pt-2 text-slate-600">
               <p>April 24, 2022</p>
-              <p className="line-clamp-1"> By Dilshad</p>
+              <p className="line-clamp-1"> By Sulthanul Arief</p>
             </div>
             <div className="space-y-3 py-3">
               <h1 className="line-clamp-1 text-xl font-bold">

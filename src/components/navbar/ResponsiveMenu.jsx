@@ -13,7 +13,7 @@ const ResponsiveMenu = ({ showMenu }) => {
         <div className="flex items-center justify-start gap-3">
           <FaUserCircle size={50} />
           <div>
-            <h1>Dilshad Ahmed</h1>
+            <h1>Sulthanul Arief</h1>
             <h1 className="text-sm text-slate-500">Premium user</h1>
           </div>
         </div>
